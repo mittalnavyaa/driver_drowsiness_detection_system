@@ -4,7 +4,7 @@ A real-time driver drowsiness detection system that uses **computer vision** to 
 
 ---
 
-## 🔧 Features  
+##  Features  
 1. Real-time face detection using **OpenCV**  
 2. Eye and mouth state analysis for **drowsiness detection**  
 3. Sound alert system using **winsound**  
